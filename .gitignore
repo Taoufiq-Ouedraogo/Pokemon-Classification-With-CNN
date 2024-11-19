@@ -1,0 +1,5 @@
+# Ignorer les fichiers MacOS spécifiques
+.DS_Store
+
+# Ignorer les checkpoints des notebooks Jupyter
+.ipynb_checkpoints/
